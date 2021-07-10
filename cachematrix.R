@@ -32,7 +32,6 @@ makeCacheMatrix <- function(x = matrix()) {
         
 }
 
-
 ## The inverse of the matrix is returned by the following functions.
 ## It checks to see of the inverse has been computed previously. If this
 ## is the case, the result is obtained and the computation is skipped. 
