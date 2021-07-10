@@ -57,6 +57,4 @@ cacheSolve <- function(x, ...) {
         x$setinverse(in)
         
         in
-        
 }
-        
